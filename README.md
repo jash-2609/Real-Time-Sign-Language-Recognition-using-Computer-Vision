@@ -1,1 +1,1 @@
-# An Improved Real-Time Sign Language Recognition using Transfer Learning
+Real-Time Sign Language Recognition using Transfer Learning
